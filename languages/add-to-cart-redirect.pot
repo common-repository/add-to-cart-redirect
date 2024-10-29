@@ -1,0 +1,51 @@
+# Copyright (C) 2021 WPxon
+# This file is distributed under the GPL2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Add to Cart Redirect - To Any Page 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/add-to-cart-redirect\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-15T03:31:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: add-to-cart-redirect\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Add to Cart Redirect - To Any Page"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpxon.com/add-to-cart-redirect"
+msgstr ""
+
+#. Description of the plugin
+msgid "After Add to Cart a Product it enables you to redirect to any specific page you want."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPxon"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpxon.com"
+msgstr ""
+
+#: includes/Admin.php:24
+msgid "Add to Cart behaviour"
+msgstr ""
+
+#: includes/Admin.php:37
+msgid "Add to Cart Redirect To"
+msgstr ""
+
+#: includes/Admin.php:78
+msgid "Add to Cart redirect to"
+msgstr ""
+
+#: includes/Admin.php:84
+msgid "After adding product to cart, page will redirect to the selected page."
+msgstr ""

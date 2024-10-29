@@ -1,0 +1,20 @@
+{
+    "name": "wpxon/add-to-cart-redirect",
+    "description": "A plugin for WooCommerce Add to Cart Redirect By Wpxon",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Wpxon",
+            "email": "wpxon7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Atcr\\": "includes/"
+        }
+    },
+    "files": []
+}
